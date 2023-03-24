@@ -10,4 +10,6 @@ Cursos na Alura - Acessibilidade web parte 1: tornando seu front-end inclusivo<b
 
 Objetivo desse projeto é aprender sobre acessibilidade melhorando códigos com layouts acessíveis e inclusivos usando leitor de tela (NVDA) e percebendo como detalhes no código podem impactar as pessoas.
   
+
+<img src="apeperia.png" alt="Apeperia">  
 </div>
